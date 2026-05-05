@@ -5,7 +5,7 @@
 
 nate.dong97@gmail.com
 
-https://www.linkedin.com/in/nathan-dong-dev/
+http://linkedin.com/in/nathandong-dev
 
 <!---
 NathanD2/NathanD2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
